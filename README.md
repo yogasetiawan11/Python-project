@@ -5,4 +5,4 @@ Whether you're a small startup or a large enterprise, AWS Ninja can help you str
 
 <img width="1024" height="490" alt="Image" src="https://github.com/user-attachments/assets/4138c129-f2e0-4244-89de-fd762f60fd5f" />
 
-This project inspired by Abhishek veramalla you can see explanation to this [link](https://youtu.be/DgavixR_w5Y?si=UfTam732sds-jJW7)
+This project inspired from **Abhishek veramalla** you can see detail explanation to this [link](https://youtu.be/DgavixR_w5Y?si=UfTam732sds-jJW7)
